@@ -3,6 +3,7 @@
 int main(){
     int a = 10;
     int b = 20;
+    printf("Hello there!!\n");
     printf("a-b = ",a-b);
     return
 }
